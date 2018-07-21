@@ -1,0 +1,7 @@
+C:\Users\micha\OneDrive\Desktop\consoleApp1\Enums\enumExercise\enumExercise\obj\Debug\enumExercise.csprojAssemblyReference.cache
+C:\Users\micha\OneDrive\Desktop\consoleApp1\Enums\enumExercise\enumExercise\obj\Debug\enumExercise.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\consoleApp1\Enums\enumExercise\enumExercise\bin\Debug\enumExercise.exe.config
+C:\Users\micha\OneDrive\Desktop\consoleApp1\Enums\enumExercise\enumExercise\bin\Debug\enumExercise.exe
+C:\Users\micha\OneDrive\Desktop\consoleApp1\Enums\enumExercise\enumExercise\bin\Debug\enumExercise.pdb
+C:\Users\micha\OneDrive\Desktop\consoleApp1\Enums\enumExercise\enumExercise\obj\Debug\enumExercise.exe
+C:\Users\micha\OneDrive\Desktop\consoleApp1\Enums\enumExercise\enumExercise\obj\Debug\enumExercise.pdb
